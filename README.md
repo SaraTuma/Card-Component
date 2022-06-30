@@ -69,11 +69,7 @@ I'll be focused on the frontend area right now, and I hope it all works out. I i
 - LinkedIn - [@sara-tuma](https://www.linkedin.com/in/sara-tuma-9186911ba)
 
 
-
-
 Thanks for visiting, don't forget to leave a star for me, I'd appreciate it!
-
-## thank you for your visit >_<
 
 <div align="center">
 <a href="https://github.com/SaraTuma"><img height="200" width="200" src="https://github.com/SaraTuma.png" alt="Sara Tuma"></a>
