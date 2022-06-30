@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [With Github Pages](https://your-solution-url.com)
+- Solution URL: [With Github Pages](https://saratuma.github.io/Card-Component/)
 
 ## My process
 
