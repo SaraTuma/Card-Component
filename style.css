@@ -119,7 +119,7 @@ body{
 @media (min-width: 320px){
 
     .main-style{
-        height: 92vh;
+        height: 95vh;
     }
     .main-title{
         
@@ -132,7 +132,7 @@ body{
     }
     .div-text{
         height: 22vh;
-        margin-top: 15px;
+        margin-top: 25px;
     }
     .div-text-item h1{
         font-size: 15px;
@@ -147,14 +147,14 @@ body{
 @media (min-width: 375px){
 
     .main-style{
-        height: 80vh;
+        height: 85vh;
     }
     .paragraph{
         height: 13vh;
     }
     .div-text{
         height: 20vh;
-        margin-top: 0px;
+        margin-top: 20px;
     }
 
 }
