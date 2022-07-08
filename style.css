@@ -116,6 +116,36 @@ body{
 .attribution {  font-family: 'Inter', sans-serif; font-weight: 700; margin: 10px; font-size: 11px; text-align: center; color: white; }
 .attribution a { text-decoration: none; color: hsl(277, 64%, 61%); }
 
+@media (max-width: 568px){
+    
+    .main-style{
+        height: 93vh;
+    }
+    .main-title{
+        width: 50vw;
+        font-size: 25px;
+    }
+    .paragraph{
+        height: 11vh;
+        font-size: 13px;
+    }
+    .div-text{
+        height: 26vh;
+        margin-top: 10px;
+    }
+    .div-text-item h1{
+        font-size: 20px;
+
+    }
+    
+    .div-text-item span{
+        font-family: 'Lexend Deca', sans-serif;
+        font-weight: 400;
+        color: hsla(0, 0%, 100%, 0.6);
+    }
+
+}
+
 @media (min-width: 1440px){
     body{
         padding-top: 30px;
